@@ -1,6 +1,7 @@
 .cabecalho{
     background-color: #424e61;
     color: #ffffff;
+    display: flex;
 }
 .cabacalho-img{
     width: 20%;
