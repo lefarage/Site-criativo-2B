@@ -2,6 +2,7 @@
     background-color: #424e61;
     color: #ffffff;
     display: flex;
+    justify-content: space-around;
 }
 .cabacalho-img{
     width: 20%;
